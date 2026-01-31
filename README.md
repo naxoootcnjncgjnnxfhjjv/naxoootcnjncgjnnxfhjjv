@@ -4,7 +4,7 @@
 
 # 👾 treminattor
 
-### 💰 A to lo que dé dinero
+### A todo lo que dé dineroo
 Construyo **bots y automatizaciones cripto** (TON + EVM) que **reclaman, venden y mueven** sin intervención manual, todo desde **Telegram**.
 
 ---
